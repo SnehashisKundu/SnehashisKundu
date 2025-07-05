@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Snehashis Kundu</h1>
 <h3 align="center">A passionate Full Stack Developer & Learner 🚀</h3>
-
-<p align="center">
-  <img src="A_GitHub_profile_README_image_introduces_Snehashis.png" alt="Mascot lifting weights with tech icons" width="80%"/>
-</p>
-
 ---
 
 ### 🧠 About Me
 
 - 🌱 I’m currently working on full-stack projects and system designs  
 - 🧠 Learning: Java, React, and Advanced DSA  
-- 🧑‍💻 Ask me about: **C++, Python, SQL, REST APIs**  
+- 🧑‍💻 Ask me about: **C++, Python, SQL,Node JS, REST APIs**  
 - 📫 Reach me: **snehashiskundu2003@gmail.com**  
 - ⚡ Fun fact: I love coffee ☕, coding 🧠, and creative logic-building 💡
 
@@ -59,12 +54,6 @@
 </p>
 
 ---
-
-### 📝 Blogs
-
-- 🔍 [Top 5 Open Source Cloud Tools](#)
-- 🧠 [How Open Source Changed My Learning](#)
-
 ---
 
 <p align="center">
