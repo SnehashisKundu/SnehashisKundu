@@ -60,3 +60,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <i>Thanks for visiting!</i>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SnehashisKundu&show_icons=true&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SnehashisKundu&theme=onedark)
